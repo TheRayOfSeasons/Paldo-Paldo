@@ -3,4 +3,6 @@ Changes
 
 New changes by Charles from BM's local repo.
 
-Test push to master branch from BM branch.
+Test push to BM Branch. (Modified line here)
+
+New line.
