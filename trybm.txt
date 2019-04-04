@@ -8,3 +8,5 @@ Test push to BM Branch. (Modified line here)
 New line.
 
 New committed lines
+
+New lines modified
