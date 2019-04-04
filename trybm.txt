@@ -6,3 +6,5 @@ New changes by Charles from BM's local repo.
 Test push to BM Branch. (Modified line here)
 
 New line.
+
+New committed lines
