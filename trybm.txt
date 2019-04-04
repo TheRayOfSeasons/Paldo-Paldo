@@ -3,15 +3,6 @@ Changes
 
 New changes by Charles from BM's local repo.
 
-Test push to BM Branch. (Modified line here) Modification from Ray
+Test push to BM Branch. (Modified line here)
 
-New line. New line from Ray
-
-New lines from Ray
-
-
-
-
-
-
-heh
+New line.
